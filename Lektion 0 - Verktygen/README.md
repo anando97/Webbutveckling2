@@ -1,4 +1,4 @@
-# Lektion 1 - Genomgång av utvecklarverktyg
+# Lektion 0 - Genomgång av utvecklarverktyg
 
 ## Genomgång
 
