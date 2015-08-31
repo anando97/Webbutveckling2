@@ -27,11 +27,11 @@
     - div, span
   - Vanliga HTML-attribut
     - lang
+    - dir
+    - title
     - class
     - id
-    - title
     - style
-    - dir
   - [Web Platform: HTML](https://docs.webplatform.org/wiki/html)
   - [HTML5 Cheat Sheet](http://websitesetup.org/HTML5-cheat-sheet.pdf)
   - Bilder
