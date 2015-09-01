@@ -1,4 +1,4 @@
-# Lektion 2 - Repetition av CSS
+# Lektion 2 - Repetition av CSS: Selektorer
 
 ## Genomgång
 
@@ -16,14 +16,10 @@
     - Barnselektor `a > b`
     - Syskonslektor `a + b`
     - Avkommlingsselektor `a b`
+  - Global selektor '\*'
   - [Web Platform: CSS](https://docs.webplatform.org/wiki/css)
   - [CSS3 Cheat Sheet](http://www.smashingmagazine.com/wp-content/uploads/images/css3-cheat-sheet/css3-cheat-sheet.pdf)
   - Gör övningsuppgift 1
-
-- Repetition av DOM
-  - Ett träd av noder med egenskaper
-  - Är resultatet av HTML-koden, CSS-koden och alla skript
-  - Det är DOM-strukturen vi kan inspektera i webbläsarens utvecklarverktyg
 
 ## Övninguppgifter
 
