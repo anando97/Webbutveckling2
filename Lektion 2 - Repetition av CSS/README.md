@@ -27,7 +27,7 @@
 
 ## Övninguppgifter
 
-1. Gör en ny sida (tips: klona den tidigare jsbinen) och styla den enkelt med CSS (obs: inget JavaScript)
+1. Gör en ny sida (eller klona den tidigare jsbinen) och styla den enkelt med CSS (obs: inget JavaScript)
 
 ## Läsanvisningar
 
